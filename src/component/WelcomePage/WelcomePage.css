@@ -1,0 +1,28 @@
+.WelcomePage > img{
+    width: 100vmax;
+    height: 100vh;
+    display: flex;                            
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+ 
+  .WelcomePage .Continue {
+    float: right;
+    width: 5%;
+    
+    
+    
+    
+    overflow:auto;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: white;
+    color: purple;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  
+  

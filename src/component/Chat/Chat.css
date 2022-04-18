@@ -1,0 +1,35 @@
+.back-top{
+    background-color: #cb6ce6;
+    height: 15vh;
+}
+
+.back-main{
+    background-color: whitesmoke;
+    height: 85vh;
+}
+
+ .back-container{
+     position: relative;
+}
+
+.front-container{               
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.front-container1{               
+    position: absolute;
+    top: 30px;
+    left: 0;
+    right: 0;
+}
+
+.chat-top{
+    background-color: white;
+    min-height: 50px; 
+    top: 5;
+    left: 5;
+    right: 5;
+}
